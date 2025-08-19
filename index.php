@@ -1,5 +1,5 @@
 <?php
-$apiKey = "b53ae6db9e03a280b6492daca1926e42";
+$apiKey = "Sua API Key Aqui"; // troque por sua chave
 $city = isset($_GET['city']) ? urlencode($_GET['city']) : "São Paulo";
 $units = "metric";
 $lang = "pt_br";
